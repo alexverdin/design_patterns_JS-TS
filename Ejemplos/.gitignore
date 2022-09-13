@@ -1,0 +1,7 @@
+# unnecesary files
+favicon.ico
+
+# node files
+node_modules/
+package-lock.json
+package.json
